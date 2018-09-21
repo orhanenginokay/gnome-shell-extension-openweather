@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://github.com/jenslody/gnome-shell-extension-"
 "openweather/issues\n"
 "POT-Creation-Date: 2017-04-02 23:47+0200\n"
-"PO-Revision-Date: 2018-09-21 16:49+0300\n"
+"PO-Revision-Date: 2018-09-21 16:58+0300\n"
 "Last-Translator: Jens Lody <openweather@jenslody.de>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
@@ -213,11 +213,11 @@ msgstr "G"
 
 #: src/extension.js:1137
 msgid "SW"
-msgstr "gb"
+msgstr "GB"
 
 #: src/extension.js:1137
 msgid "W"
-msgstr "b"
+msgstr "B"
 
 #: src/extension.js:1137
 msgid "NW"
@@ -257,7 +257,7 @@ msgstr "Torr"
 
 #: src/extension.js:1274 data/weather-settings.ui:818
 msgid "psi"
-msgstr "Torr"
+msgstr "psi"
 
 #: src/extension.js:1279 data/weather-settings.ui:819
 msgid "mmHg"
@@ -580,7 +580,7 @@ msgstr "Konum"
 
 #: src/prefs.js:389
 msgid "Provider"
-msgstr "sağlayıcı"
+msgstr "Sağlayıcı"
 
 #: src/prefs.js:538
 #, javascript-format
@@ -696,7 +696,7 @@ msgstr "Rüzgar Hız Birimi"
 #: data/weather-settings.ui:760
 #: data/org.gnome.shell.extensions.openweather.gschema.xml:67
 msgid "Pressure Unit"
-msgstr "Druckeinheit:"
+msgstr "Basınç Birimleri"
 
 #: data/weather-settings.ui:797
 msgid "Beaufort"
@@ -751,7 +751,7 @@ msgstr "Tahmindeki Koşullar"
 
 #: data/weather-settings.ui:956
 msgid "Center forecast"
-msgstr "merkez tahmini"
+msgstr "Merkez tahmini"
 
 #: data/weather-settings.ui:967
 #: data/org.gnome.shell.extensions.openweather.gschema.xml:133
@@ -870,7 +870,7 @@ msgstr "Yenileme aralığı (tahmini)"
 
 #: data/org.gnome.shell.extensions.openweather.gschema.xml:129
 msgid "Center forecastbox."
-msgstr "Vorhersage zentrieren"
+msgstr "Merkez tahmin kutusu."
 
 #: data/org.gnome.shell.extensions.openweather.gschema.xml:141
 msgid "Your personal API key from openweathermap.org"
